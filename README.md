@@ -7,10 +7,10 @@ I hope that you use it and
 - Edris Ranjbar
 - Telegram : [@edrisranjbar2](https://t.me/edrisranjbar2)
 - Website : [www.edrisranjbar.ir](https://www.edrisranjbar.ir)<br>
-<hr>
+--------------------------------------------------------------------------
 
 ## help
 
 please first update config file.
-if you have some quistion you can ask me on my telegram.<br>
+if you have some question you can ask me on my telegram.
 <b>thank you.</b>
